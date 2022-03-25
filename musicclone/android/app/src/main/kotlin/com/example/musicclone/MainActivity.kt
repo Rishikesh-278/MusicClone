@@ -1,0 +1,6 @@
+package com.example.musicclone
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
